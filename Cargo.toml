@@ -1,0 +1,23 @@
+[package]
+name = "crawler"
+version = "0.1.0"
+authors = ["Arutyunyan Artyom <arutyunyan_av@icloud.com>"]
+description = "Asynchronous CLI web crawler with concurrent workers and pluggable spiders"
+license = "MIT"
+edition = "2024"
+
+[dependencies]
+tokio = { version = "1.49", features = ["macros", "rt-multi-thread", "sync", "time", "full", "test-util"] }
+reqwest = { version = "0.13.1", features = ["json", "gzip", "brotli", "deflate", "cookies"] }
+tokio-stream = "0.1.18"
+async-trait = "0.1.89"
+env_logger = "0.11"
+url = "2.5.8"
+log = "0.4.29"
+figlet-rs = "0.1.5"
+scraper = "0.25"
+regex = "1.12.2"
+futures-util = "0.3"
+httpmock = "0.8.3"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
