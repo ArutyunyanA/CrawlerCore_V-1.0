@@ -44,6 +44,25 @@ warning: `crawler` (bin "crawler") generated 5 warnings
 
 [+] Target domains loaded: 1
 [+] Seed URLs queued: 1
+[javascript] - http://127.0.0.1:3000/polyfills.js
+[javascript] - http://127.0.0.1:3000/scripts.js
+[javascript] - http://127.0.0.1:3000/main.js
+[url] - [code-200] - http://127.0.0.1:3000/ftp
+[href] - http://127.0.0.1:3000/
+[href] - http://127.0.0.1:3000/ftp
+[href] - http://127.0.0.1:3000/ftp/quarantine
+[href] - http://127.0.0.1:3000/ftp/acquisitions.md
+[href] - http://127.0.0.1:3000/ftp/announcement_encrypted.md
+[href] - http://127.0.0.1:3000/ftp/coupons_2013.md.bak
+[href] - http://127.0.0.1:3000/ftp/eastere.gg
+[href] - http://127.0.0.1:3000/ftp/encrypt.pyc
+[href] - http://127.0.0.1:3000/ftp/incident-support.kdbx
+[href] - http://127.0.0.1:3000/ftp/legal.md
+[href] - http://127.0.0.1:3000/ftp/package-lock.json.bak
+[href] - http://127.0.0.1:3000/ftp/package.json.bak
+[href] - http://127.0.0.1:3000/ftp/suspicious_errors.yml
+[url] - [code-200] - http://127.0.0.1:3000/ftp/acquisitions.md
+[url] - [code-200] - http://127.0.0.1:3000/scripts.js
 [url] - [code-200] - http://127.0.0.1:3000/
 [javascript] - http://127.0.0.1:3000/polyfills.js
 [javascript] - http://127.0.0.1:3000/scripts.js
